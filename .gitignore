@@ -1,2 +1,3 @@
 *.log
 /targer
+*.orig
